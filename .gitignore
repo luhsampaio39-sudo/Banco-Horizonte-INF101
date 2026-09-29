@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.obj
+__pycache__/
+.vscode/
+.idea/
+banco_horizonte
+desafio_cinco_contas
